@@ -1,2 +1,2 @@
 # landpagetipoblog
-Pagina tipo landpage, usando javascript y css, para que la navegación se vea fluida y responsive para móviles.
+landing page, I used javascript and css, this page is responsive for tablets and smartphones.
